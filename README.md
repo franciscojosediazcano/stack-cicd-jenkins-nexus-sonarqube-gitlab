@@ -6,4 +6,4 @@ En este repo se encuentra el ejemplo de un ci/cd completo de un proyecto unido a
 
 Nota: Si jenkins da error, se tiene que ejecutar 'sudo chown -R 1000:1000 jenkins'
 
-Si tienes problemas con "dial unix /var/run/docker.sock: connect: permission denied", se tiene que poner al usuario jenkins
+Si tienes problemas con "dial unix /var/run/docker.sock: connect: permission denied", se tiene que poner al usuario jenkins. Esta URL: https://medium.com/igorgsousa-tech/docker-in-docker-with-jenkins-permission-problem-637f45549947
